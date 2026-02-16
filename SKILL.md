@@ -537,7 +537,7 @@ VAULT_ID=your-vault-id
 
 ## Resources
 
-- **Documentation**: https://docs.emblemvault.dev
+- **Documentation**: https://emblemvault.dev/docs/auth/overview
 - **App Registration**: https://emblemvault.dev/register
 - **GitHub**: https://github.com/EmblemCompany
 - **Discord**: https://discord.gg/Q93wbfsgBj
