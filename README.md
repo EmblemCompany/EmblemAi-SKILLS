@@ -6,7 +6,7 @@ Clawdbot skill for multi-chain wallet authentication and AI-powered crypto tools
 
 - **Wallet Authentication**: Ethereum, Solana, Bitcoin, Hedera
 - **Transaction Signing**: viem, ethers.js, web3.js, Solana adapters
-- **AI Chat**: 25+ built-in crypto tools (trading, analysis, DeFi)
+- **AI Chat**: 250+ built-in crypto tools (trading, analysis, DeFi)
 - **React Components**: Pre-built UI for rapid development
 
 ## Quick Start
