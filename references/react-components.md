@@ -157,7 +157,7 @@ import { EmblemAuthProvider } from '@emblemvault/emblem-auth-react';
 
 <EmblemAuthProvider
   appId="your-app-id"
-  authUrl="https://auth.emblem.vault"
+  authUrl="https://auth.emblemvault.dev"
   modalMode="iframe"
   onSession={(session) => console.log('Session:', session)}
   onError={(error) => console.error('Auth error:', error)}

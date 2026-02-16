@@ -14,8 +14,8 @@ npm install @emblemvault/auth-sdk
 import { EmblemAuthSDK } from '@emblemvault/auth-sdk';
 
 const auth = new EmblemAuthSDK({
-  appId: 'your-app-id',           // Required: from emblem.vault/register
-  authUrl: 'https://auth.emblem.vault',  // Optional: custom auth URL
+  appId: 'your-app-id',           // Required: from emblemvault.dev/register
+  authUrl: 'https://auth.emblemvault.dev',  // Optional: custom auth URL
   modalMode: 'iframe',            // Optional: 'iframe' | 'popup' (default: 'iframe')
   storage: customStorage          // Optional: custom storage adapter
 });
@@ -200,7 +200,7 @@ try {
 ## CDN Usage
 
 ```html
-<script src="https://cdn.emblem.vault/auth-sdk.min.js"></script>
+<script src="https://cdn.emblemvault.dev/auth-sdk.min.js"></script>
 <script>
   const auth = new EmblemAuthSDK({ appId: 'your-app-id' });
   auth.openAuthModal();

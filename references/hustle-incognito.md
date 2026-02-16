@@ -17,7 +17,7 @@ import { HustleIncognito } from 'hustle-incognito';
 
 const client = new HustleIncognito({
   apiKey: process.env.EMBLEM_API_KEY,
-  apiUrl: 'https://api.emblem.vault'
+  apiUrl: 'https://api.emblemvault.dev'
 });
 ```
 
@@ -38,7 +38,7 @@ const client = new HustleIncognito({ auth });
 ```typescript
 const client = new HustleIncognito({
   token: 'jwt-token-here',
-  apiUrl: 'https://api.emblem.vault'
+  apiUrl: 'https://api.emblemvault.dev'
 });
 ```
 
@@ -294,7 +294,7 @@ try {
 ```bash
 # Set environment variables
 export EMBLEM_API_KEY=your-api-key
-export EMBLEM_API_URL=https://api.emblem.vault
+export EMBLEM_API_URL=https://api.emblemvault.dev
 
 # Use in scripts
 node -e "

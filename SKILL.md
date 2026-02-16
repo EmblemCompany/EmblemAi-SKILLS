@@ -440,7 +440,7 @@ const auth = new EmblemAuthSDK({
   appId: 'your-app-id',
   // Optional: customize modal behavior
   modalMode: 'iframe',  // or 'popup'
-  authUrl: 'https://auth.emblem.vault'
+  authUrl: 'https://auth.emblemvault.dev'
 });
 ```
 
@@ -537,9 +537,9 @@ VAULT_ID=your-vault-id
 
 ## Resources
 
-- **Documentation**: https://docs.emblem.vault
-- **App Registration**: https://emblem.vault/register
-- **GitHub**: https://github.com/emblemvault
+- **Documentation**: https://docs.emblemvault.dev
+- **App Registration**: https://emblemvault.dev/register
+- **GitHub**: https://github.com/EmblemCompany
 - **Discord**: https://discord.gg/emblem
 
 ---
