@@ -540,7 +540,7 @@ VAULT_ID=your-vault-id
 - **Documentation**: https://docs.emblemvault.dev
 - **App Registration**: https://emblemvault.dev/register
 - **GitHub**: https://github.com/EmblemCompany
-- **Discord**: https://discord.gg/emblem
+- **Discord**: https://discord.gg/Q93wbfsgBj
 
 ---
 
